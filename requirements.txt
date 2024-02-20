@@ -1,0 +1,9 @@
+langchain
+ragas
+PyPDF2
+python-dotenv
+streamlit
+faiss-cpu
+altair<5
+langchain-community
+langchain-openai
